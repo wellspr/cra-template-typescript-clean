@@ -1,0 +1,25 @@
+{
+  "name": "@prwells/cra-template-typescript-clean",
+  "version": "1.0.0",
+  "description": "A cleaner typescript template for create react app",
+  "keywords": [
+    "react",
+    "typescript",
+    "custom-cra-template",
+    "clean-template",
+    "ready"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellspr/cra-template-typescript-clean.git"
+  },
+  "author": "Paulo R. ",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
