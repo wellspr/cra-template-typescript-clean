@@ -1,4 +1,4 @@
-# CRA-Template-Ready
+# CRA-Template-Typescript-Clean
 
 This is a cleaner template to start a create react app.
 
